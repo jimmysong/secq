@@ -22,10 +22,10 @@ Install virtualenv:
 
     $ pip install virtualenv
 
-# Download pb-exercises requirements
+# Download requirements
 
-    $ git clone https://github.com/jimmysong/pb-exercises
-    $ cd pb-exercises
+    $ git clone https://github.com/jimmysong/secq
+    $ cd secq
     $ virtualenv -p python3 .venv
 
 Linux/OSX:
