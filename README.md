@@ -1,3 +1,7 @@
+# THIS LIBRARY IS FOR TEACHING PURPOSES ONLY DO NOT USE IN PRODUCTION!!!
+
+This is a python implementation of the secq256k1 curve.
+
 # Pre-Requisites
 
 Install python 3.5 or above on your machine:
